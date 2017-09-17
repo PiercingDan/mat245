@@ -13,3 +13,5 @@ Corequisite: MAT237Y1/MAT257Y1
 Distribution Requirement: Science
 
 Breadth Requirement: The Physical and Mathematical Universes (5)
+
+Feedback Form: https://docs.google.com/forms/d/1ZoIweHYs2x9NdIdF__upw2JFUdLK_1SJyYZlTnT0nyM/viewform?edit_requested=true
