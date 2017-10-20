@@ -10,4 +10,4 @@ Lesson Plan:
 
 
 ### Comments
-This is quite a difficult assignment. If you cannot finish it in class, submit it by the end of the day after the lab.
+This assignment is more difficult than the previous. If you cannot finish it in class, submit it by 11:59 pm of the day after the lab (Wed).
