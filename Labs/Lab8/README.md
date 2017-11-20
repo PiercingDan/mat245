@@ -1,4 +1,4 @@
-# Lab 7
+# Lab 8
 
 Today, we investigate the Curse of Dimensionality and random projections. 
 
