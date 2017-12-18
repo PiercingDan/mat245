@@ -14,7 +14,9 @@
 
 *Breadth Requirement:* The Physical and Mathematical Universes (5)
 
-\*: Main creator of lab content
+<br>
+  
+*\*: Main creator of lab content*
 
-\*\*: Marker
+*\*\*: Marker*
 
