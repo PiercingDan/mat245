@@ -2,7 +2,7 @@
 
 **Instructor:** Nicholas Hoell
 
-**Teaching Assistants:** Danny Luo, Gideon Providence, Matt Sourisseau
+**Teaching Assistants:** Danny Luo, Gideon Providence\* , Matt Sourisseau\*\*
 
 **Course Description:** An introduction to the mathematical methods behind scientific techniques developed for extracting information from large data sets. Elementary probability density functions, conditional expectation, inverse problems, regularization, dimension reduction, gradient methods, singular value decomposition and its applications, stability, diffusion maps. Examples from applications in data science and big data. 
 
@@ -14,4 +14,7 @@
 
 *Breadth Requirement:* The Physical and Mathematical Universes (5)
 
-**Feedback Form:** https://docs.google.com/forms/d/1ZoIweHYs2x9NdIdF__upw2JFUdLK_1SJyYZlTnT0nyM/viewform?edit_requested=true
+\*: Main creator of lab content
+
+\*\*: Marker
+
