@@ -16,7 +16,7 @@
 
 <br>
   
-*\*: Main creator of lab content*
+*\* Main creator of lab content*
 
-*\*\*: Marker*
+*\*\* Marker*
 
